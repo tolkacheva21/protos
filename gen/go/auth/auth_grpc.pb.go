@@ -4,7 +4,7 @@
 // - protoc             v6.30.2
 // source: auth/auth.proto
 
-package ssoy1
+package authv1
 
 import (
 	context "context"
